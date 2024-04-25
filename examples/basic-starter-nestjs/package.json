@@ -55,7 +55,7 @@
     "serverless-offline": "^6.8.0",
     "serverless-plugin-optimize": "^4.1.4-rc.1",
     "serverless-plugin-typescript": "^1.1.9",
-    "supertest": "^6.0.0",
+    "supertest": "^7.0.0",
     "ts-jest": "^26.5.1",
     "ts-loader": "^8.0.17",
     "ts-node": "^9.0.0",
