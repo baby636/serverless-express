@@ -26,7 +26,7 @@
   "dependencies": {
     "@vendia/serverless-express": "^4.3.0",
     "koa": "^2.13.1",
-    "koa-router": "^7.4.0"
+    "koa-router": "^13.0.1"
   },
   "devDependencies": {
     "cross-var": "^1.1.0"
