@@ -17,9 +17,9 @@
     "@sailshq/socket.io-redis": "^5.2.0",
     "@vendia/serverless-express": "^4.3.0",
     "grunt": "1.0.4",
-    "sails": "^1.4.0",
+    "sails": "^1.5.1",
     "sails-hook-grunt": "^4.0.0",
-    "sails-hook-orm": "^2.1.1",
+    "sails-hook-orm": "^4.0.1",
     "sails-hook-sockets": "^2.0.0"
   },
   "devDependencies": {
